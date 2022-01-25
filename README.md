@@ -1,10 +1,9 @@
 # Deployment on local server
 
-### 1.) `npm run build`
+### 1.) Build this project by `npm run build`
 
-build this project by `npm run build`
+### 2.) Copy built folder to `/var/www/html` in local server
 
-Copy built folder to /var/www/html in local server
 <!-- ## Available Scripts
 
 In the project directory, you can run:

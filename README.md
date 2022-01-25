@@ -4,6 +4,8 @@
 
 ### 2.) Copy built folder to `/var/www/html` in local server
 
+You can copy in many ways for instance scp (secure copy) or pull from this repo and do step 1 and 2 again
+
 <!-- ## Available Scripts
 
 In the project directory, you can run:

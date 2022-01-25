@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.main-button {
+  cursor: pointer;
+  width: 1000px;
+  height: 80px;
+  margin: 20px;
+  border-radius: 10px;
+  border: none;
+  color: lightgray;
+  font-weight: bolder;
+  font-size: x-large;
+}

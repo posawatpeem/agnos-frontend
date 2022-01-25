@@ -1,0 +1,122 @@
+.root {
+  height: 100%;
+  text-align: center;
+}
+
+.button-div {
+  position: absolute;
+  top: 52%;
+  left: 47%;
+  z-index: 100;
+}
+
+.button-organ-1 {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  width: 5.5rem;
+  height: 5.5rem;
+  left: -32px;
+  top: -35px;
+  clip-path: circle(50% at 50% 50%);
+}
+
+.button-organ-2 {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  width: 8rem;
+  height: 9.5rem;
+  top: -205px;
+  left: -50px;
+  clip-path: polygon(50% 0%, 80% 20%, 100% 50%, 50% 100%, 0% 50%, 20% 20%);
+}
+
+.button-organ-3 {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  width: 7.5rem;
+  height: 8rem;
+  top: -130px;
+  left: -140px;
+  clip-path: polygon(1% 99%, 6% 32%, 55% 5%, 100% 60%, 70% 98%);
+}
+
+.button-organ-4 {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  width: 8rem;
+  height: 8rem;
+  top: 25px;
+  left: -145px;
+  clip-path: polygon(2% 1%, 63% 0%, 95% 28%, 60% 100%, 40% 90%, 1% 46%);
+}
+
+.button-organ-5 {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  width: 8rem;
+  height: 8rem;
+  top: 70px;
+  left: -50px;
+  clip-path: polygon(46% 1%, 25% 20%, 1% 71%, 48% 99%, 98% 70%, 75% 20%);
+}
+
+.button-organ-6 {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  width: 8rem;
+  height: 8rem;
+  top: 20px;
+  left: 45px;
+  clip-path: polygon(
+    30% 1%,
+    95% 0%,
+    95% 28%,
+    80% 70%,
+    45% 100%,
+    40% 90%,
+    4% 35%
+  );
+}
+
+.button-organ-7 {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  width: 7.5rem;
+  height: 7rem;
+  top: -120px;
+  left: 50px;
+  clip-path: polygon(0% 55%, 23% 100%, 96% 100%, 88% 21%, 30% 2%);
+}
+
+.button-organ-8 {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  width: 320px;
+  height: 100px;
+  top: 415px;
+  left: -150px;
+  border-radius: 50px;
+}
+
+.highlight {
+  width: 1000px;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
